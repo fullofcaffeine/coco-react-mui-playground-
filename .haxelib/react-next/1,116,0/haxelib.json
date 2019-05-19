@@ -1,0 +1,17 @@
+{
+  "name": "react-next",
+  "license": "MIT",
+  "tags": [],
+  "description": "Many breaking changes for react, aiming for a future 2.0.0 release",
+  "contributors": [
+    "klabz"
+  ],
+  "releasenote": "Make auto jsx wrapping for inline markup opt-in instead of opt-out",
+  "version": "1.116.0",
+  "url": "https://github.com/kLabz/haxe-react",
+  "classPath": "src/lib",
+  "dependencies": {
+    "tink_hxx": "",
+    "js-object": ""
+  }
+}

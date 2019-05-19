@@ -1,0 +1,16 @@
+{
+  "name": "js-object",
+  "description": "Externs for Object and Symbol",
+  "version": "0.0.6",
+  "releasenote": "Allow using either {} or Dynamic as type for Object",
+  "url": "https://github.com/kLabz/js-object",
+  "license": "MIT",
+  "tags": [
+    "js"
+  ],
+  "classPath": "src",
+  "contributors": [
+    "klabz"
+  ]
+}
+

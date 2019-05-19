@@ -1,0 +1,17 @@
+{
+  "name": "react-event-listener",
+  "description": "A React component for binding events on the global scope.",
+  "version": "0.1.1",
+  "releasenote": "Initial release. (See CHANGELOG.md)",
+  "url": "https://github.com/kLabz/haxe-react-event-listener",
+  "license": "MIT",
+  "tags": ["react"],
+  "classPath": "src",
+  "dependencies": {
+    "react-types": ""
+  },
+  "contributors": [
+    "klabz"
+  ]
+}
+

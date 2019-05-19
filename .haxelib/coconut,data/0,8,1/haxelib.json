@@ -1,0 +1,24 @@
+{
+	"name": "coconut.data",
+	"license": "MIT",
+	"tags": [
+		"data",
+		"state",
+		"cross",
+		"coconut",
+		"reactive",
+		"observable"
+	],
+	"classPath": "src",
+	"contributors": [
+		"back2dos"
+	],
+	"releasenote": "Add support for getting last value in computed/loaded properties, @:shared fields, getting last value in computed/loaded properties and custom constructors.",
+	"version": "0.8.1",
+	"url": "https://github.com/MVCoconut/coconut.data/",
+	"dependencies": {
+		"tink_state": "",
+		"tink_lang": "",
+		"tink_pure": ""
+	}
+}

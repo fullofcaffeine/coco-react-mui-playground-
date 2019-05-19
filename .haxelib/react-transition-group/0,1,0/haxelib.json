@@ -1,0 +1,17 @@
+{
+  "name": "react-transition-group",
+  "description": "An easy way to perform animations when a React component enters or leaves the DOM",
+  "version": "0.1.0",
+  "releasenote": "Initial release. (See CHANGELOG.md)",
+  "url": "https://github.com/kLabz/haxe-react-transition-group",
+  "license": "MIT",
+  "tags": ["react"],
+  "classPath": "src",
+  "dependencies": {
+    "react-types": ""
+  },
+  "contributors": [
+    "klabz"
+  ]
+}
+

@@ -1138,7 +1138,7 @@ tink_core__$Callback_Callback_$Impl_$.fromMany = function(callbacks) {
 	};
 };
 tink_core__$Callback_Callback_$Impl_$.defer = function(f) {
-	process.nextTick(f);
+	haxe_Timer.delay(f,0);
 };
 var tink_core__$Callback_CallbackLink_$Impl_$ = {};
 tink_core__$Callback_CallbackLink_$Impl_$.__name__ = true;

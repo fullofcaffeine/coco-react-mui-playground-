@@ -1,0 +1,21 @@
+{
+  "name": "tink_parse",
+  "license": "MIT",
+  "tags": [
+    "tink",
+    "cross",
+    "parsing",
+    "parse"
+  ],
+  "classPath": "src",
+  "description": "Tinkerbell Parser Library",
+  "contributors": [
+    "back2dos"
+  ],
+  "releasenote": "Unicode support and other improvements.",
+  "version": "0.3.0",
+  "url": "http://haxetink.org/tink_parse",
+  "dependencies": {
+    "tink_core": ""
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "react-types",
+  "description": "Additional typings for react libs",
+  "version": "0.9.0",
+  "releasenote": "Fix Record<T>",
+  "url": "https://gitlab.com/k-labz/haxe-oss/haxe-react-types",
+  "license": "MIT",
+  "tags": [],
+  "classPath": "src",
+  "dependencies": {
+    "css-types": ""
+  },
+  "contributors": [
+    "klabz"
+  ]
+}
+

@@ -1,0 +1,21 @@
+{
+	"name": "tink_lang",
+	"description": "A syntactic sugar bowl",
+	"classPath": "src",
+	"dependencies": {
+		"tink_syntaxhub": ""
+	},
+	"url": "http://haxetink.org/tink_lang",
+	"contributors": [
+		"back2dos"
+	],
+	"version": "0.6.2",
+	"releasenote": "Improve hxx integration for inline markup.",
+	"tags": [
+		"tink",
+		"cross",
+		"utility",
+		"sugar"
+	],
+	"license": "MIT"
+}
